@@ -3,8 +3,15 @@
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png",3 ThaiPBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png",23 Workpoint
+https://stream-04.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8qKdeA6_JER91lCniD-MDi8)/dm/3/x6g9qjj/s/live-0.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mono.png",29 Mono
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-thairath.png",32 Thairath
 https://live.thairath.co.th/trtv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-amarin.png",34 AmarinTV
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
+
