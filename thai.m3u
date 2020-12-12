@@ -3,8 +3,14 @@
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png",3 ThaiPBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mcot.png",30 MCOT
+https://stream-02.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xmThbXCc35vC9UcKMBXPJkk)/dm/3/x74wlgj/s/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-ch7.png",35 CH7
+https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_3/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-workpoint.png",23 Workpoint
-https://stream-04.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8qKdeA6_JER91lCniD-MDi8)/dm/3/x6g9qjj/s/live-0.m3u8
+https://stream-01.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8qKdeA6_JER91lCniD-MDi8)/dm/3/x6g9qjj/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mono.png",29 Mono
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
