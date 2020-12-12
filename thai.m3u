@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tpbs.png",3 ThaiPBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-thairath.png",32 Thairath
+https://live.thairath.co.th/trtv2/playlist.m3u8
